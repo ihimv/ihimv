@@ -7,19 +7,18 @@
 - 🏦 I'm a Software Developer working in the Oil and Gas domain in Bangalore, India. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I am a Microsoft Full-Stack Developer.
-- 💻 I use daily **Visual Studio**, **Azure Portal**, **Notepad++**
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
+- 💬 Talk to me about electrical future, spirtuality. 
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ I believe in adding value through my code.
 - ✔ Be the change you want to see in the world.
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-horizontal.svg" alt=".NET" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="Microsoft Azure" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript" width="75" height="75"/> 
+      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript" width="50" height="50"/> 
+      <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="55" height="55"/> 
 </p>
 
 ---
