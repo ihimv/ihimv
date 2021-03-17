@@ -4,7 +4,7 @@
 </p>
 
 ### 🤵 About Me:
-- 🏦 I'm a Software Developer working in the Oil and Gas domain in Bangalore, India. 
+- 🏦 I am working in the Oil and Gas domain in Bangalore, India. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I am a Microsoft Full-Stack Developer.
 - 💬 Talk to me about electrical future, spirtuality. 
