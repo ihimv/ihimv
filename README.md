@@ -1,4 +1,4 @@
-# Welcome to Himanshu's wiki!
+# Hi I am Himanshu!
 <p align="center">
 <a href="https://linkedin.com/in/ihimv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="himanshu linkedin" height="30" width="30" /></a>&nbsp;
 </p>
