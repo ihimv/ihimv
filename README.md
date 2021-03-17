@@ -1,6 +1,6 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Welcome to Himanshu's wiki!
 <p align="center">
-<a href="https://linkedin.com/in/ihimv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+<a href="https://linkedin.com/in/ihimv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="himanshu linkedin" height="30" width="30" /></a>&nbsp;
 </p>
 
 ### 🤵 About Me:
@@ -19,11 +19,12 @@
       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript" width="50" height="50"/> 
       <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="VS Code" width="55" height="55"/> 
 </p>
 
 ---
 ### 🐱My Github stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=ihimv&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+![Himanshu's github stats](https://github-readme-stats.vercel.app/api?username=ihimv&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihimv&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/ihimv/github-readme-stats)
 
 
