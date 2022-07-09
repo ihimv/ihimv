@@ -1,4 +1,4 @@
-# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am Himanshu!
+# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px"> I am Himanshu!
 <p align="center">
 <a href="https://linkedin.com/in/ihimv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="himanshu linkedin" height="30" width="30" /></a>&nbsp;
 </p>
@@ -7,7 +7,7 @@
 - 🏦 I am working in the Oil and Gas domain in Bangalore, India. 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I am a Microsoft Full-Stack Developer.
-- 💬 Talk to me about electrical future, spirtuality. 
+- 💬 Talk to me about photography, spirituality and technology.
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ I believe in adding value through my code.
 - ✔ Be the change you want to see in the world.
